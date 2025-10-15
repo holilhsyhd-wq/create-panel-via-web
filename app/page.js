@@ -93,7 +93,7 @@ export default function Home() {
             <button className="btn" type="submit">Login</button>
           </div>
 
-          <p className="muted" style={{marginTop:8}}>Use: <b>barmods</b> / <b>barmods21</b></p>
+          <p className="muted" style={{marginTop:8}}>Use: <b>jangan_nyebar_link_nya</b> / <b>atau_kami_blacklist</b></p>
         </form>
       </main>
     )
