@@ -93,7 +93,7 @@ export default function Home() {
             <button className="btn" type="submit">Login</button>
           </div>
 
-          <p className="muted" style={{marginTop:8}}>Use: <b>jangan_nyebar_link_nya</b> / <b>atau_kami_blacklist</b></p>
+          <p className="muted" style={{marginTop:8}}>Use: <b>saya membuat ini khusus member </b> / <b>jadi jangan pernah bagikan link ini secara free</b></p>
         </form>
       </main>
     )
@@ -116,7 +116,7 @@ export default function Home() {
 
       <form onSubmit={createServer}>
         <label className="muted">Nama Server</label>
-        <input className="input" required value={serverName} onChange={(e)=>setServerName(e.target.value)} placeholder="contoh: bot-telegram" />
+        <input className="input" required value={serverName} onChange={(e)=>setServerName(e.target.value)} placeholder="contoh bismillah" />
 
         <label className="muted">Pilih RAM</label>
         <div style={{display:'flex', flexWrap:'wrap', gap:8, marginTop:8, marginBottom:12}}>
